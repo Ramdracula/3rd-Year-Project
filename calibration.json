@@ -1,0 +1,22 @@
+{
+  "camera_resolution": [
+    4608,
+    2592
+  ],
+  "preview_resolution": [
+    640,
+    480
+  ],
+  "crop_size_px": 2500,
+  "crop_center_x_px": 2304,
+  "crop_center_y_px": 1500,
+  "trigger_baseline": 30,
+  "trigger_delta": 40,
+  "rearm_delta": 5,
+  "trigger_strip_height_px": 40,
+  "trigger_delay_s": 0.4,
+  "cooldown_s": 0.7,
+  "shutter_us": 200,
+  "gain": 5,
+  "lens_position": 12.0
+}

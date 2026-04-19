@@ -1,0 +1,14 @@
+{
+  "pattern_id": "PATTERN002",
+
+  "conveyor_speed_volts": 22.6,
+
+  "dpi": 600,
+  "pulse_width": 5,
+  "voltage": 10,
+  "print_darkness": 1,
+  "height_mm": 3,
+  "colour": "black"
+}
+
+
